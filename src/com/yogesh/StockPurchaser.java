@@ -3,6 +3,9 @@ package com.yogesh;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/*
+ * Maximize stock profitz
+ */
 public class StockPurchaser {
 
 	

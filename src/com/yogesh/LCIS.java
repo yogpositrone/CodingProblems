@@ -3,6 +3,9 @@ package com.yogesh;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/*
+ * Longest continuous subsequence
+ */
 public class LCIS {
 	
 	public static void main(String args[]){

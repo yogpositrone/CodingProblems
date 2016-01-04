@@ -3,6 +3,10 @@ package com.yogesh;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/*
+ * Matrix rotation by 90 degree.
+ * Transpose and change cols
+ */
 public class RotateBy90 {
 	
 	
